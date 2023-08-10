@@ -18,7 +18,7 @@ Now I'm on Void Linux, but I used the next OSes too:
 - Linux Mint (bad times)
 
 ## Rices
-If you want to check my rices, check my [repositories](https://github.com/disptenc?tab=repositories)
+If you want to check my rices, you can see my [repositories](https://github.com/disptenc?tab=repositories)
 
 ## Stats
 
