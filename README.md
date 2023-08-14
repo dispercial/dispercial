@@ -12,13 +12,13 @@
 I love the linux ricing.
 Now I'm on Void Linux, but I used the next OSes too:
 
-- ![Void Linux](https://voidlinux.org) (Current OS)
-- ![Arch Linux](https://archlinux.org) (classic)
-- ![Artix Linux](https://artixlinux.org) (that was arch w/o systemd, that's all)
-- ![EndeavourOS](https://endeavouros.com) (bad times)
-- ![CachyOS](https://cachyos.org) (good os, recommended)
-- ![NixOS](https://nixos.org) (that was hard, cuz i can't do easy things.)
-- ![Linux Mint](https://linuxmint.com) (bad times)
+- Void Linux (Current OS)
+- Arch Linux (classic)
+- Artix Linux (that was arch w/o systemd, that's all)
+- CachyOS (good os, recommended)
+- NixOS (that was hard, I wasn't able todo anything.)
+- Linux Mint (bad times)
+- EndeavourOS (bad times)
 
 ## Rices
 If you want to check my rices, you can see my [repositories.](https://github.com/disptenc?tab=repositories)
