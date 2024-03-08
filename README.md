@@ -25,4 +25,4 @@ If you want to check my rices, you can see my [repositories.](https://github.com
 
 ## Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=disptenc&show_icons=true&locale=en" alt="disptenc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xeerowave&show_icons=true&locale=en" alt="xeerowave" /></p>
