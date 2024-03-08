@@ -21,8 +21,8 @@ Now I'm on Void Linux, but I used the next OSes too:
 - EndeavourOS (bad times)
 
 ## Rices
-If you want to check my rices, you can see my [repositories.](https://github.com/xeerowave?tab=repositories)
+If you want to check my rices, you can see my [repositories.](https://github.com/xrwv?tab=repositories)
 
 ## Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xeerowave&show_icons=true&locale=en" alt="xeerowave" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xrwv&show_icons=true&locale=en" alt="xrwv" /></p>
