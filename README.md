@@ -9,7 +9,7 @@
 - 😄 Pronouns: 
 -->
 
-I love the linux ricing.
+- I love the linux ricing.
 Now I'm on Void Linux, but I used the next OSes too:
 
 - Void Linux (current distro)
