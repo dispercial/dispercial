@@ -1,4 +1,4 @@
-## Welcome to my Github Profile. 👋
+## welcome to my github profile. 👋
 
 <!--
 - 🌱 I’m currently learning ...
@@ -9,19 +9,19 @@
 - 😄 Pronouns: 
 -->
 
-I love the linux ricing. Now I'm on Void Linux, but I used the next OSes too:
+i love the linux ricing. now i'm on arch, but i used the next distros too:
 
-- Void Linux (current distro)
-- Arch Linux (classic)
-- Artix Linux (arch w/o systemd, that's all)
-- CachyOS (good distro, recommended)
-- NixOS (hard, wasn't able to do anything.)
-- Linux Mint (bad times)
-- EndeavourOS (bad times)
+- arch (current distro, classic)
+- void (minimal)
+- artix (arch w/o systemd, that's all)
+- cachy (good distro, recommended)
+- nix (hard, wasn't able to do anything. skill issue)
+- mint (bad times)
+- endeavour (bad times)
 
-## Rices
-If you want to check my rices, you can see my [repositories.](https://github.com/xrwv?tab=repositories)
+## rices
+if you want to check my rices, you can see my [repositories.](https://github.com/xrwv?tab=repositories)
 
-## Stats
+## stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xrwv&show_icons=true&locale=en" alt="xrwv" /></p>
