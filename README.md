@@ -1,4 +1,4 @@
-## welcome to my github profile. 👋
+## Welcome to my GitHub Profile. 👋
 
 <!--
 - 🌱 I’m currently learning ...
@@ -9,19 +9,19 @@
 - 😄 Pronouns: 
 -->
 
-i loved linux. now i'm on windows, but i used the next distros too:
+I loved linux. Now I'm on Windows, but I used the next distros too:
 
-- [artix](artixlinux.org) (aur with runit, W distro)
-- [arch](archlinux.org) (classic, had troubles with systemd)
-- [void](voidlinux.org) (minimal)
-- [cachy](cachyos.org) (good distro, recommended)
-- [nixos](nixos.org) (hard, wasn't able to do anything. skill issue)
-- [linux mint](linuxmint.com) (bad times)
-- [garuda](garudalinux.org) (bad times)
-- [endeavouros](endeavouros.com) (bad times)
+- [Artix Linux](artixlinux.org) (aur with runit, W distro)
+- [Arch Linux](archlinux.org) (classic, had troubles with systemd)
+- [Void GNU/Linux](voidlinux.org) (minimal)
+- [CachyOS](cachyos.org) (good distro, recommended)
+- [NixOS](nixos.org) (hard, wasn't able to do anything. skill issue)
+- [Linux Mint](linuxmint.com) (bad times)
+- [Garuda Linux](garudalinux.org) (bad times)
+- [EndeavourOS](endeavouros.com) (bad times)
 
-## dots
-if you want to check my dots, you can see my [repositories.](https://github.com/xrwv?tab=repositories)
+## Dots
+If you want to check my dots, you can see my [repositories.](https://github.com/xrwv?tab=repositories)
 
 ## stats
 
