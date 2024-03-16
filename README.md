@@ -9,7 +9,7 @@
 - 😄 Pronouns: 
 -->
 
-i love the linux ricing. now i'm on windows, but i used the next distros too:
+i loved linux. now i'm on windows, but i used the next distros too:
 
 - [artix](artixlinux.org) (aur with runit, W distro)
 - [arch](archlinux.org) (classic, had troubles with systemd)
@@ -20,8 +20,8 @@ i love the linux ricing. now i'm on windows, but i used the next distros too:
 - [garuda](garudalinux.org) (bad times)
 - [endeavouros](endeavouros.com) (bad times)
 
-## rices
-if you want to check my rices, you can see my [repositories.](https://github.com/xrwv?tab=repositories)
+## dots
+if you want to check my dots, you can see my [repositories.](https://github.com/xrwv?tab=repositories)
 
 ## stats
 
