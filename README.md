@@ -9,15 +9,16 @@
 - 😄 Pronouns: 
 -->
 
-i love the linux ricing. now i'm on arch, but i used the next distros too:
+i love the linux ricing. now i'm on windows, but i used the next distros too:
 
-- arch (current distro, classic)
-- void (minimal)
-- artix (arch w/o systemd, that's all)
-- cachy (good distro, recommended)
-- nix (hard, wasn't able to do anything. skill issue)
-- mint (bad times)
-- endeavour (bad times)
+- ![artix](artixlinux.org) (aur with runit, W distro)
+- ![arch](archlinux.org) (classic, had troubles with systemd)
+- ![void](voidlinux.org) (minimal)
+- ![cachy](cachyos.org) (good distro, recommended)
+- ![nixos](nixos.org) (hard, wasn't able to do anything. skill issue)
+- ![linux mint](linuxmint.com) (bad times)
+- ![garuda](garudalinux.org) (bad times)
+- ![endeavouros](endeavouros.com) (bad times)
 
 ## rices
 if you want to check my rices, you can see my [repositories.](https://github.com/xrwv?tab=repositories)
