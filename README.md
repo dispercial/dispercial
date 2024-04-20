@@ -21,8 +21,8 @@ I loved linux. Now I'm on Windows, but I used the next distros too:
 - [EndeavourOS](endeavouros.com) (bad times)
 
 ## Dots
-If you want to check my dots, you can see my [repositories.](https://github.com/xrwv?tab=repositories)
+If you want to check my dots, you can see my [repositories.](https://github.com/librequit?tab=repositories)
 
 ## stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xrwv&show_icons=true&locale=en" alt="xrwv" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xrwv&show_icons=true&locale=en" alt="librequit" /></p>
