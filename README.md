@@ -1,20 +1,5 @@
 <h1 align="center">welcome.</h1>
 <h3 align="center">linux enthusiast</h3>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Distros
 - [Artix Linux](https://artixlinux.org) (aur with runit, W distro)
 - [Arch Linux](https://archlinux.org) (classic, had troubles with systemd)
