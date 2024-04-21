@@ -14,5 +14,5 @@
 ## Dots
 If you want to check my dots, you can see my [repositories.](https://github.com/dispercial?tab=repositories)
 
-## stats
+## Statistics
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dispercial&show_icons=true&locale=en" alt="dispercial" /></p>
