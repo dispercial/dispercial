@@ -1,4 +1,4 @@
-## Welcome to my GitHub Profile. 👋
+## welcome.
 
 <!--
 - 🌱 I’m currently learning ...
@@ -15,7 +15,7 @@ I love linux. Now I'm on [XOS by imribiy](https://discord.gg/XTYEjZNPgX), but I 
 - [Arch Linux](https://archlinux.org) (classic, had troubles with systemd)
 - [Void GNU/Linux](https://voidlinux.org) (minimal)
 - [CachyOS](https://cachyos.org) (good distro, recommended)
-- [NixOS](https://nixos.org) (hard, wasn't able to do anything. skill issue. w distro tho)
+- [NixOS](https://nixos.org) (hard. skill issue. w distro tho)
 - [Linux Mint](https://linuxmint.com) (bad times)
 - [Garuda Linux](https://garudalinux.org) (bad times)
 - [EndeavourOS](https://endeavouros.com) (bad times)
