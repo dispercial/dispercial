@@ -9,7 +9,7 @@
 - 😄 Pronouns: 
 -->
 
-I loved linux. Now I'm on Windows, but I used the next distros too:
+I love linux. Now I'm on Windows ([XOS](github.com/imribiy/xos)), but I used the next distros too:
 
 - [Artix Linux](artixlinux.org) (aur with runit, W distro)
 - [Arch Linux](archlinux.org) (classic, had troubles with systemd)
