@@ -2,8 +2,8 @@
 <h3 align="center">linux enthusiast</h3>
 
 ## distros
-- [artix <3](https://artixlinux.org) (aur with runit, W distro)
-- [void <3](https://voidlinux.org) (minimal)
+- [artix](https://artixlinux.org) <3 (aur with runit, W distro)
+- [void](https://voidlinux.org) <3 (minimal)
 - [arch](https://archlinux.org) (classic, had troubles with systemd)
 - [cachyos](https://cachyos.org) (good distro, recommended)
 - [nixos](https://nixos.org) (hard. skill issue. w distro tho)
