@@ -1,5 +1,6 @@
 <h1 align="center">welcome.</h1>
 <h3 align="center">linux enthusiast</h3>
+
 ## Distros
 - [Artix Linux](https://artixlinux.org) (aur with runit, W distro)
 - [Arch Linux](https://archlinux.org) (classic, had troubles with systemd)
@@ -14,5 +15,4 @@
 If you want to check my dots, you can see my [repositories.](https://github.com/dispercial?tab=repositories)
 
 ## stats
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dispercial&show_icons=true&locale=en" alt="dispercial" /></p>
