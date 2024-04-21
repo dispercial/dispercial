@@ -1,15 +1,15 @@
 <h1 align="center">welcome.</h1>
 <h3 align="center">linux enthusiast</h3>
 
-## Distros
-- [Artix Linux](https://artixlinux.org) (aur with runit, W distro)
-- [Arch Linux](https://archlinux.org) (classic, had troubles with systemd)
-- [Void GNU/Linux](https://voidlinux.org) (minimal)
-- [CachyOS](https://cachyos.org) (good distro, recommended)
-- [NixOS](https://nixos.org) (hard. skill issue. w distro tho)
-- [Linux Mint](https://linuxmint.com) (bad times)
-- [Garuda Linux](https://garudalinux.org) (bad times)
-- [EndeavourOS](https://endeavouros.com) (bad times)
+## distros
+- [artix <3](https://artixlinux.org) (aur with runit, W distro)
+- [void <3](https://voidlinux.org) (minimal)
+- [arch](https://archlinux.org) (classic, had troubles with systemd)
+- [cachyos](https://cachyos.org) (good distro, recommended)
+- [nixos](https://nixos.org) (hard. skill issue. w distro tho)
+- [garuda](https://garudalinux.org) (bad times, unlucky)
+- [endevaouros](https://endeavouros.com) (bad times)
+- [linux mint (dogshit)](https://linuxmint.com) (bad times)
 
 ## Dots
 If you want to check my dots, you can see my [repositories.](https://github.com/dispercial?tab=repositories)
