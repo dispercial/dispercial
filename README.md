@@ -11,8 +11,8 @@
 - [endevaouros](https://endeavouros.com) (bad times)
 - [linux mint (dogshit)](https://linuxmint.com) (bad times)
 
-## Dots
-If you want to check my dots, you can see my [repositories.](https://github.com/dispercial?tab=repositories)
+## dots
+if you want to check my dots, you can see my [repositories.](https://github.com/dispercial?tab=repositories)
 
-## Statistics
+## statistics
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dispercial&show_icons=true&locale=en" alt="dispercial" /></p>
