@@ -1,16 +1,7 @@
-## welcome.
+<h1 align="center">welcome.</h1>
+<h3 align="center">linux enthusiast</h3>
 
-<!--
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ricing.
-- 📫 How to reach me: 
-- 😄 Pronouns: 
--->
-
-I love linux. Now I'm on [XOS by imribiy](https://discord.gg/XTYEjZNPgX), but I used the next distros too:
-
+## Distros
 - [Artix Linux](https://artixlinux.org) (aur with runit, W distro)
 - [Arch Linux](https://archlinux.org) (classic, had troubles with systemd)
 - [Void GNU/Linux](https://voidlinux.org) (minimal)
