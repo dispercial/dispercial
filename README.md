@@ -10,20 +10,20 @@
 
 <h2 align="left">My telegram/discord/channel:</h3>
 
-- Telegram > @neverlose_support.
+- Telegram: [@neverlose_support.](https://t.me/neverlose_support)
 
-- Discord > shadxwbxrned (responding only here!),
+- Discord: shadxwbxrned (responding only here!),
 
-- YT channel: https://youtube.com/@W3dCloud,
+- YT channel: [@W3dCloud](https://youtube.com/@W3dCloud),
 
-- TG channel: @W3dCloudRiver.
+- TG channel: [@W3dCloudRiver](https://t.me/W3dCloudRiver).
 
 <h2 align="left">My devices:</h3>
 
 - PC:
   - Processor > Intel Xeon E5-1660V3
-  - GPU > GTX 1060 6 GB
-  - RAM > 16 GB DDR4 2400
+  - GPU > GTX 1060 6GB
+  - RAM > 16GB DDR4 2400mhz
   - Motherboard > HUANANZHI X99-QD4
 
 - Laptop:
