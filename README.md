@@ -3,14 +3,19 @@
 <h2 align="left">General info:</h3>
 
 - Nickname > W3dCloud.
+
 - Live in > Ukraine.
+
 - Main programing language > C#/Batch/Python.
 
 <h2 align="left">My telegram/discord/channel:</h3>
 
 - Telegram > @neverlose_support.
+
 - Discord > shadxwbxrned (responding only here!),
+
 - YT channel: https://youtube.com/@W3dCloud,
+
 - TG channel: @W3dCloudRiver.
 
 <h2 align="left">My devices:</h3>
